@@ -13,6 +13,16 @@ Welcome to the GitHub home of the **Gnosis Research Center (GRC)** at Illinois I
 
 We bridge the gap between data scientists and system architects through cutting-edge solutions and advanced high-performance computational capabilities. Our work spans from innovative memory systems to distributed computing solutions, all aimed at tackling real-world challenges in data management and processing.
 
+## 🌱 Getting Started
+
+New to GRC? Here's how you can get involved:
+
+1. 💻 Browse our [repositories](https://github.com/orgs/grc-iit/repositories) to explore our open-source projects
+2. 📚 Read our [documentation](https://grc.iit.edu/docs/index) to understand our technologies
+3. 🎓 Check out our current [projects](https://grc.iit.edu/research/projects) and find ways to contribute
+4. 📝 Explore our [publications](https://grc.iit.edu/publications) to dive deeper into our research
+5. 💬 Join our [community chat](https://grc.zulipchat.com/join/wry2a7adzoxsgw2ynimm3s6v/) to connect with other members
+
 ## 🚀 Featured Projects
 
 Here are our major research initiatives, developed by our talented students and researchers:
@@ -72,36 +82,17 @@ We're always looking for passionate individuals to join our research community! 
 - Research Scientists
 - Undergraduate Research Assistants
 
-## 🤝 Collaborations
-
-We're proud to work with leading institutions across the nation:
-- Argonne National Laboratory
-- Lawrence Livermore National Laboratory
-- Oak Ridge National Laboratory
-- Sandia National Laboratories
-- And many more!
-
-## 🌱 Getting Started
-
-New to GRC? Here's how you can get involved:
-
-1. 💻 Browse our [repositories](https://github.com/orgs/grc-iit/repositories) to explore our open-source projects
-2. 📚 Read our [documentation](https://grc.iit.edu/docs/index) to understand our technologies
-3. 🎓 Check out our current [projects](https://grc.iit.edu/research/projects) and find ways to contribute
-4. 📝 Explore our [publications](https://grc.iit.edu/publications) to dive deeper into our research
-5. 💬 Join our [community chat](https://grc.zulipchat.com/join/wry2a7adzoxsgw2ynimm3s6v/) to connect with other members
-
 ## 📫 Contact Us
 
 Have questions? Want to collaborate? Reach out to us!
 
-- 📧 Lab Email: [grc@iit.edu](mailto:grc@iit.edu)
-- 👨‍💼 Technical Inquiries: [akougkas@iit.edu](mailto:akougkas@iit.edu)
-- 🌐 Visit our [Website](https://www.iit.edu)
+- 📧 [General and Student Inquiries](mailto:grc@iit.edu)
+- 👨‍💼 [Technical Inquiries and Partnerships](mailto:akougkas@iit.edu)
+- 🌐 [Official Website](https://grc.iit.edu/)
 
 ## 🏆 Acknowledgments
 
-Our research is made possible through the generous support of the National Science Foundation (NSF) and our collaboration with national laboratories and research partners.
+Our research is made possible through the generous support of the National Science Foundation (NSF) and US Department of Energy. Many thanks to our collaboration with national laboratories and other university research partners.
 
 ---
 
