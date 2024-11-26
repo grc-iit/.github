@@ -1,95 +1,114 @@
-Welcome to the official GitHub organization of the **Gnosis Research Center (GRC)** at the Illinois Institute of Technology (IIT).  :school:
+# 🔬 Welcome to the Gnosis Research Center
 
-## About GRC
+[![Lab - IIT](https://img.shields.io/badge/Lab-IIT-red.svg)](https://www.iit.edu)
+[![NSF Funded](https://img.shields.io/badge/NSF-Funded-blue.svg)](https://www.nsf.gov)
+[![DOE Funded](https://img.shields.io/badge/DOE-Funded-yellow.svg)](https://www.energy.gov)
+[![Open Source](https://img.shields.io/badge/Open-Source-green.svg)](https://github.com/grc-iit)
 
-The Gnosis Research Center is a leading research center dedicated to advancing the field of **Scalable Computing and Data-Driven Discovery**. Our vision is to empower research at the intersection of these two critical areas and develop innovative solutions that address the challenges posed by the ever-increasing volume, variety, velocity, and veracity of data.
+## 🌟 About Us
 
-Our research covers a wide range of topics, including:
+Welcome to the GitHub home of the **Gnosis Research Center (GRC)** at Illinois Institute of Technology! We're a dynamic research center where students and researchers work together to push the boundaries of **Scalable Computing** and **Data-Driven Discovery**.
 
-- **Memory Systems Architecture**: We design and develop tools to enhance efficiency and performance in modern computer systems.
-- **Parallel and Distributed I/O**: We evaluate and model high-performance computing systems to optimize data access and management.
-- **Resource Management**: We research techniques for optimizing task scheduling and resource allocation in data-intensive environments.
-- **Reliability and Security**:  We develop methods to enhance the reliability and security of parallel and distributed systems.
+### 🎯 Our Mission
 
-Our **mission** is to empower research in the intersection of Scalable Computing and Data-Driven Discovery, bridging the gap between data scientists and computer system architects. 
+We bridge the gap between data scientists and system architects through cutting-edge solutions and advanced high-performance computational capabilities. Our work spans from innovative memory systems to distributed computing solutions, all aimed at tackling real-world challenges in data management and processing.
 
-## What you'll find here
+## 🚀 Featured Projects
 
-This GitHub organization hosts a collection of **open-source projects and repositories**, showcasing the innovative work conducted by GRC students and researchers.  :mortar_board:
+Here are our major research initiatives, developed by our talented students and researchers:
 
-You can explore the source code, documentation, and publications related to our ongoing projects. We encourage contributions, collaboration, and feedback from the community.
+### ChronoLog
+> 📊 A hierarchical, distributed log store revolutionizing how we handle massive-scale activity data in HPC environments
+- Time-based log ordering
+- Multi-tiered storage architecture
+- Elastic resource provisioning
+- [View Project →](https://github.com/grc-iit/ChronoLog)
 
-## Featured Projects
+### IOWarp
+> 🔄 A comprehensive data management platform for modern scientific workflows
+- Seamless integration of simulation, analytics, and AI
+- Built on existing storage infrastructure
+- Advanced data flow optimization
+- [View Project →](https://github.com/iowarp)
 
-We are proud to highlight some of our most impactful projects:
+### Hermes Ecosystem
+> ⚡ High-performance middleware for complex storage environments
+- [Core Project](https://github.com/HDFGroup/hermes) - Main Hermes repository
+- Supporting Libraries:
+  - [Hermes Shared Memory](https://github.com/grc-iit/hermes-shm)
+  - [HCL (Hermes Container Library)](https://github.com/grc-iit/hcl)
+  - [HStream](https://github.com/grc-iit/HStream)
+  - [HFetch](https://github.com/grc-iit/HFetch)
+  - [HReplica](https://github.com/grc-iit/hreplica)
+  - [HFlow](https://github.com/grc-iit/HFlow)
 
-### **1. IOWarp: Advanced Data Management for Scientific Workflows** 
+### Accelerating Scientific ML
+> 🧠 Advanced tools and frameworks for machine learning in scientific computing
+- [DLIO](https://github.com/grc-iit/dlio) - Deep Learning I/O Benchmarking
+- [LABIOS](https://github.com/grc-iit/labios) - Label-based I/O System
+- [MEGA MMAP](https://github.com/grc-iit/mega_mmap) - Memory Mapping Framework
+- [STIMULUS](https://github.com/grc-iit/stimulus) - Storage-Informed Machine Learning
+- [HeirGym](https://github.com/grc-iit/HeirGym) - Hierarchical Storage Reinforcement Learning
 
-**IOWarp** is a comprehensive data management platform tackling challenges in scientific workflows that involve simulation, analytics, and AI. By optimizing data flow and building upon existing storage infrastructures, IOWarp offers a scalable and flexible solution for managing the diverse data needs of modern scientific research, especially in HPC environments.
+[View All Projects →](https://github.com/orgs/grc-iit/repositories)
 
-**Key Features:**
+## 👥 Our Community
 
-- Enhances data exchange and transformation across scientific workflows.
-- Reduces data access latency by leveraging advanced storage systems.
-- Provides an open-source framework fostering adaptability and community-driven innovation.
+The GRC is powered by a vibrant community of researchers and innovators:
 
-**Explore IOWarp on GitHub:** [https://github.com/grc-iit/iowarp](https://github.com/grc-iit/iowarp) 
+- 👨‍🏫 [Faculty Members](https://grc.iit.edu/members#faculty)
+- 🔬 [Research Scientists](https://grc.iit.edu/members#researchers)
+- 👨‍💼 [Research Staff](https://grc.iit.edu/members#research-staff)
+- 🤝 [External Collaborators](https://grc.iit.edu/members#external-collaborators)
+- 🎓 [Alumni Network](https://grc.iit.edu/members#some-of-our-alumni)
 
-### **2. ChronoLog: A High-Performance Storage Infrastructure for Activity and Log Workloads**
+We believe in fostering an inclusive environment where students and researchers can grow, learn, and contribute to cutting-edge research projects.
 
-**ChronoLog** is a hierarchical and distributed log store designed for high-performance storage of activity and log data. It utilizes physical time for log ordering and reduces contention while employing storage tiers to ensure the elastic scaling of log capacity. 
+### 💼 Join Our Team
 
-**Key Features:** 
+We're always looking for passionate individuals to join our research community! Check out our [current openings](https://grc.iit.edu/jobs) for opportunities at all levels:
+- Graduate Research Assistants
+- Post-Doctoral Researchers
+- Research Scientists
+- Undergraduate Research Assistants
 
-- Achieves log ordering through physical time, eliminating the need for explicit synchronizations. 
-- Employs multi-tiered storage for scalable log capacity and tunable data access parallelism.
-- Uses elastic storage semantics and dynamic resource provisioning for efficient I/O management.
+## 🤝 Collaborations
 
-**Explore ChronoLog on GitHub:** [https://github.com/grc-iit/chronolog](https://github.com/grc-iit/chronolog) 
+We're proud to work with leading institutions across the nation:
+- Argonne National Laboratory
+- Lawrence Livermore National Laboratory
+- Oak Ridge National Laboratory
+- Sandia National Laboratories
+- And many more!
 
-### 3. Coeus: Accelerating Scientific Insights Using Enriched Metadata
+## 🌱 Getting Started
 
-**Coeus** is a collaborative project with Sandia and Oak Ridge National Laboratories investigating the use of an active storage system to accelerate scientific discoveries. It focuses on calculating derived quantities, supporting complex queries on scientific data, and optimizing data placement across storage hierarchies.
+New to GRC? Here's how you can get involved:
 
-**Explore Coeus on GitHub:** [https://github.com/grc-iit/coeus](https://github.com/grc-iit/coeus) 
+1. 💻 Browse our [repositories](https://github.com/orgs/grc-iit/repositories) to explore our open-source projects
+2. 📚 Read our [documentation](https://grc.iit.edu/docs/index) to understand our technologies
+3. 🎓 Check out our current [projects](https://grc.iit.edu/research/projects) and find ways to contribute
+4. 📝 Explore our [publications](https://grc.iit.edu/publications) to dive deeper into our research
+5. 💬 Join our [community chat](https://grc.zulipchat.com/join/wry2a7adzoxsgw2ynimm3s6v/) to connect with other members
 
-### 4. Hermes: Extending the HDF Library to Support Intelligent I/O Buffering
+## 📫 Contact Us
 
-**Hermes** is a middleware library designed to streamline buffering in heterogeneous storage environments. It aims to reduce the I/O bottleneck commonly experienced in multi-tiered storage systems by automatically managing data placement and movement.
+Have questions? Want to collaborate? Reach out to us!
 
-**Key Features:**
+- 📧 Lab Email: [grc@iit.edu](mailto:grc@iit.edu)
+- 👨‍💼 Technical Inquiries: [akougkas@iit.edu](mailto:akougkas@iit.edu)
+- 🌐 Visit our [Website](https://www.iit.edu)
 
-- Hierarchical management of I/O operations across storage tiers.
-- Dynamic data placement for optimal performance.
-- Modular design ensuring extensibility and adaptability.
+## 🏆 Acknowledgments
 
-**Explore Hermes on GitHub:** [https://github.com/grc-iit/hermes](https://github.com/grc-iit/hermes)
+Our research is made possible through the generous support of the National Science Foundation (NSF) and our collaboration with national laboratories and research partners.
 
-### **5. Labios: A Distributed Label-Based I/O System**
+---
 
-**Labios** is a distributed label-based I/O system addressing the divergent I/O requirements of HPC and Big Data environments. It introduces a task-based storage paradigm to enable the colocation of conflicting I/O workloads without performance degradation.
+<div align="center">
 
-**Key Features:**
+**🔬 Gnosis Research Center**  
+Illinois Institute of Technology  
+*Advancing the Future of Scalable Computing and Data-Driven Discovery*
 
-- Enables storage bridging to support resource heterogeneity and data provisioning.
-- Provides storage malleability for improved resource utilization and job throughput in multi-tenant scenarios.
-
-**Explore Labios on GitHub:** [https://github.com/grc-iit/labios](https://github.com/grc-iit/labios) 
-
-### **6. DTIO: A Data Task I/O Runtime**
-
-**DTIO** is a collaborative project with Argonne National Laboratory exploring the use of a task framework to unify complex I/O stacks. It aims to improve scalability, resource utilization, and fault-tolerance through features like task replay and constraint-based scheduling.
-
-**Explore DTIO on GitHub:** [https://github.com/grc-iit/dtio](https://github.com/grc-iit/dtio) 
-
-## Student Contributions
-
-At GRC, we believe in fostering the next generation of researchers and developers. Our students play a vital role in driving our research forward. This GitHub organization reflects their hard work and dedication.
-
-## Contact Us
-
-**General Inquiries**: grc@iit.edu 
-
-**Technical Lead**:  akougkas@iit.edu 
-
-We are excited to share our work with the community and welcome your engagement! :wave:
+</div>
